@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# actix web calculator
+
+Run `cargo run' to open the web page and follow the guide.
 
 ## References
 
